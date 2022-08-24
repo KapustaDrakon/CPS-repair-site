@@ -31,7 +31,7 @@ header {
       margin-top: 8px;
       border: none;
       background-color: inherit;
-      background: url(./static/burger.png) no-repeat;
+      background: url(./img/burger.png) no-repeat;
       background-size: cover;
       background-position: center; }
       .container__menu li .container__button1:hover {
@@ -60,7 +60,7 @@ header {
       width: 97px;
       height: 52px;
       margin-top: 2px;
-      background-image: url(./static/group.png); }
+      background-image: url(./img/group.png); }
       .container__menu li .container__button2:hover {
         opacity: 0.7; }
 
@@ -77,7 +77,7 @@ header {
       height: 40px;
       margin-right: 16px;
       margin-top: 8px;
-      background-image: url(./static/repair.png); }
+      background-image: url(./img/repair.png); }
       .container__menu2 li .container__button3:hover {
         opacity: 0.7; }
       @media (min-width: 1120px) {
@@ -101,7 +101,7 @@ header {
       height: 40px;
       margin-top: 8px;
       margin-right: 16px;
-      background-image: url(./static/checkstatus.png); }
+      background-image: url(./img/checkstatus.png); }
       .container__menu2 li .container__button4:hover {
         opacity: 0.7; }
       @media (min-width: 1120px) {
@@ -133,7 +133,7 @@ header {
       height: 40px;
       margin-top: 8px;
       margin-right: 20px;
-      background-image: url(./static/profile.png); }
+      background-image: url(./img/profile.png); }
       .container__menu2 li .container__button5:hover {
         opacity: 0.7; }
       @media (max-width: 767px) {
@@ -146,7 +146,7 @@ header {
       height: 40px;
       margin-top: 8px;
       margin-right: 16px;
-      background-image: url(./static/chat.png); }
+      background-image: url(./img/chat.png); }
       .container__menu2 li .container__button6:hover {
         opacity: 0.7; }
       @media (max-width: 767px) {
@@ -159,7 +159,7 @@ header {
       height: 40px;
       margin-top: 8px;
       margin-right: 16px;
-      background-image: url(./static/call.png); }
+      background-image: url(./img/call.png); }
       .container__menu2 li .container__button7:hover {
         opacity: 0.7; }
       @media (max-width: 767px) {
@@ -377,7 +377,7 @@ aside {
       height: 40px;
       border: 0;
       margin-top: 24px;
-      background: url(./static/burger-close.png) no-repeat; }
+      background: url(./img/burger-close.png) no-repeat; }
       .container-main .container-buttons .container-buttons__button-exit:hover {
         opacity: 0.7; }
       @media (min-width: 320px) {
@@ -395,7 +395,7 @@ aside {
       width: 97px;
       height: 52px;
       margin-top: 18px;
-      background-image: url(./static/group.png); }
+      background-image: url(./img/group.png); }
       .container-main .container-buttons .container-buttons__button-company:hover {
         opacity: 0.7; }
       @media (min-width: 320px) {
@@ -410,7 +410,7 @@ aside {
       height: 40px;
       border: 0;
       margin-top: 24px;
-      background: url(./static/search.png) no-repeat; }
+      background: url(./img/search.png) no-repeat; }
       .container-main .container-buttons .container-buttons__button-search:hover {
         opacity: 0.7; }
       @media (min-width: 320px) {
@@ -491,7 +491,7 @@ aside {
       width: 40px;
       height: 40px;
       margin-top: 23px;
-      background-image: url(./static/chatcopy.png); }
+      background-image: url(./img/chatcopy.png); }
       .container-contacts .container-contacts1 .container-contacts1__call:hover {
         opacity: 0.7; }
     .container-contacts .container-contacts1 .container-contacts1__chat {
@@ -500,7 +500,7 @@ aside {
       height: 40px;
       margin-top: 23px;
       margin-left: 16px;
-      background-image: url(./static/chat.png); }
+      background-image: url(./img/chat.png); }
       .container-contacts .container-contacts1 .container-contacts1__chat:hover {
         opacity: 0.7; }
     .container-contacts .container-contacts1 .container-contacts1__profile {
@@ -509,7 +509,7 @@ aside {
       height: 40px;
       margin-top: 23px;
       margin-left: 16px;
-      background-image: url(./static/profile.png); }
+      background-image: url(./img/profile.png); }
       .container-contacts .container-contacts1 .container-contacts1__profile:hover {
         opacity: 0.7; }
   .container-contacts .container-contacts2 {
@@ -649,7 +649,7 @@ aside {
   background: #ffffff;
   border: 1px solid #eaeaea;
   border-radius: 6px;
-  background: url(./static/go.png) right 16px bottom 16px #ffffff no-repeat; }
+  background: url(./img/go.png) right 16px bottom 16px #ffffff no-repeat; }
   .swiper-slide__button:hover {
     opacity: 0.7; }
 
@@ -828,7 +828,7 @@ span.swiper-pagination-bullet {
   border: 1px solid #eaeaea;
   border-radius: 6px;
   text-decoration: none;
-  background: url(./static/go.png) right 16px bottom 16px #ffffff no-repeat; }
+  background: url(./img/go.png) right 16px bottom 16px #ffffff no-repeat; }
   .swiper-slide__button2:hover {
     opacity: 0.7; }
 
@@ -953,7 +953,7 @@ span.swiper-pagination-bullet {
   border: 1px solid #eaeaea;
   border-radius: 6px;
   text-decoration: none;
-  background: url(./static/order.png) right 16px bottom 16px #ffffff no-repeat; }
+  background: url(./img/order.png) right 16px bottom 16px #ffffff no-repeat; }
   .swiper-slide__button3:hover {
     opacity: 0.7; }
 
@@ -1079,7 +1079,7 @@ span.swiper-pagination-bullet {
     height: 40px;
     min-height: 40px;
     border: none;
-    background: url(./static/burger-close.png);
+    background: url(./img/burger-close.png);
     margin-top: 24px; }
     .container-chat .container-chat__button-exit:hover {
       opacity: 0.7; }
@@ -1216,7 +1216,7 @@ span.swiper-pagination-bullet {
     height: 40px;
     min-height: 40px;
     border: none;
-    background: url(./static/burger-close.png);
+    background: url(./img/burger-close.png);
     margin-top: 24px; }
     .container-call .container-call__button-exit:hover {
       opacity: 0.7; }
@@ -1329,7 +1329,7 @@ span.swiper-pagination-bullet {
   height: 10px;
   bottom: 5px;
   right: -20px;
-  background: url(./static/line.png) no-repeat; }
+  background: url(./img/line.png) no-repeat; }
 
 .footer {
   position: relative;
